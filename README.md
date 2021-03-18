@@ -1,2 +1,2 @@
 # react-ts-practice
-Created with CodeSandbox
+study TS basics and advance
